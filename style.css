@@ -1,0 +1,226 @@
+@charset "utf-8";
+/* CSS Document */
+#outer{
+	width: 1200px;
+	height: 3100px;
+	margin: 0 auto;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+.header{
+	width: 1200px;
+	height: 800px;
+	background: #616A53;
+}
+.logo{
+	width: 120px;
+	height: 110px;
+	margin: 10px 50px;
+	float: left
+}
+.khunginfo{
+	width: 700px;
+	height: 80px;
+/*	background: #3E0B0C;*/
+	float:right;
+	color: aliceblue;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+.box1{
+	float:left;
+	margin: 70px 40px
+}
+.box1 a{
+	color:white;
+}
+.box2{
+	float: left;
+	margin: 70px 30px
+}
+.box2 a{
+	color:white;
+}
+.box3{
+	float:left;
+	margin: 70px 30px
+}
+.box3 a{
+	color:white;
+}
+.box4{
+	float:left;
+	margin: 70px 30px
+}
+.box4 a{
+	color:white;
+}
+.box5{
+	float:left;
+	margin: 70px 20px;
+}
+.box5 a{
+	color: white
+}
+.image1{
+	clear: both;
+	float: left;
+	width: 100%;
+	height: 100%;
+	background-image: url("img & vid/imheader.jpg");
+	background-size: cover
+}
+.texth{
+	margin-top: 460px;
+	color: aliceblue;
+	margin-left: 80px;
+}
+.texth1{
+	font-size: 50px;
+	letter-spacing: 5px;
+	font-weight: bold;
+}
+.texth2{
+	width: 500px;
+	height: 100px;
+	padding-top: 20px;
+	letter-spacing: 1px;
+	line-height: 25px; 
+	
+}
+.readmore{
+	width: 110px;
+	height: 30px;
+	background:#7B7B7B;
+	border:outset;
+	text-align: center;
+	line-height: 30px;
+}
+.main1{
+	margin-top: 100px;
+/*	background:#616A53 ;*/
+	width: 1200px;
+	height: 500px;
+	padding-bottom: 100px
+	
+}
+.textm1{
+	width: 250px;
+	height: 580px;
+/*	background: #EBCFB4;*/
+	float: left;
+	margin-top: 200px;
+	margin: 100px 0px 100px 30px
+}
+.textm2{
+	width: 450px;
+	height: 580px;
+/*	background: #F7CECE;*/
+	float: left;
+}
+.xm1{
+	width: 400px;
+	height: 80px;
+	font-weight: bold;
+	line-height: 25px;
+	font-size: 18px;
+	margin-top:100px;
+}
+.xm2{
+	line-height: 25px;
+	font-size: 17px;margin-top: 25px
+}
+.readmore2{
+	width: 200px;
+	height: 30px;
+/*	background: #D9B3B4;*/
+	margin-top: 80px
+}
+.image2{
+	float: left;
+	width: 35%;
+	height: 60%;
+	background-image: url( "img & vid/space.jpg");
+	background-size: cover;
+	margin-top: 100px;
+	margin-left: 20px;
+}
+.main2{
+	width: 100%;
+	height: 24%;
+	background-image: url("img & vid/trend 2021.jpg");
+	background-size: cover
+}
+.play{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	line-height: 400px;
+	margin: 0 auto;
+}
+.main3{
+	width: 1200px;
+	height: 200px;
+	margin-top: 100px
+}
+.textm3{
+	width: 200px;
+	height: 50px;
+	float: left;
+	font-size: 22px;
+	font-weight: bold
+}
+.textm31{
+	margin-left: 40px;
+	width: 600px;
+	height: 170px;
+	float: left;
+	font-size: 20px;
+	line-height: 28px
+}
+.textm32{
+	float:right;
+	margin-right: 60px;
+	width: 200px;
+	height: 50px;
+	border: ridge;
+	background: #616A53;
+	color: aliceblue;
+	line-height: 50px;
+	text-align: center
+}
+.footer{
+	width: 1200px;
+	height: 200px;
+	background: #E7E1E1
+}
+.box0{
+	width: 10%;
+	height: 140px;
+	margin: 30px 40px;
+	float:left;
+	background-image: url("img & vid/logo 2.png");
+	background-size: cover;
+}
+.fbox2{
+	margin-left: 40px;
+	float: left;
+	width: 300px;
+	height: 200px
+}
+.fbox3{
+	float: left;
+	margin-left: 50px;
+	line-height: 4px
+	
+}
+.fbox4{
+	width: 300px;
+	height: 50px;
+	margin-top: 50px;
+	background: #6A0E0F;
+	float: right;
+	margin-right: 50px;
+	font-weight: bold;
+	line-height: 50px;
+	color: aliceblue;
+	text-align: center
+}
